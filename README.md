@@ -1,7 +1,11 @@
 # setup_app
 
 ### window_manager_app
+
+[![How to use one monitor like a dual monitor.](https://img.youtube.com/vi/tcHLHS2gZ00/0.jpg)](https://www.youtube.com/watch?v=tcHLHS2gZ00)
+
 [download link](https://github.com/stacew/setup_app/raw/main/SETUP_window_manager_app_2.0.0.exe)
+
 - REAL TIME LIST:
   - Detects managed windows in current OS every second and updates the list.
 	  - Button to send to EXCEPTION LIST
